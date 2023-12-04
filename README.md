@@ -16,6 +16,3 @@
 		![image](https://github.com/Art1key/restoraunt/assets/120904937/7ab29d25-437a-41c9-9175-bd081556e23c)
 		![image](https://github.com/Art1key/restoraunt/assets/120904937/9428bae8-846f-43ce-a7f6-1f386833e86e)
 		![image](https://github.com/Art1key/restoraunt/assets/120904937/ed9729b7-cd5a-4c37-8dcf-3d4502123621)
-
-
-# restoraunt
